@@ -22,4 +22,4 @@ var butts = "My Butt!"
    return result;
  }
 
- wordBlanks("dog", "fat", "drink", "happily");
+ wordBlanks("cat", "superfat", "drink", "angrily");
