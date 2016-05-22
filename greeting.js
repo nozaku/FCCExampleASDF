@@ -8,16 +8,18 @@ reverse("butts")
 //I made it. Yeah
 
 var butts = "My Butt!"
- 
+
  function whatAmISittingOn () {
  	return butts;
  }
- 
+
  	whatAmISittingOn();
- 	
+
  	function wordBlanks(myNoun, myAdjective, myVerb, myAdverb) {
   var result = "";
   result = "The " + myAdjective + " " + myNoun + " " + myAdverb + " " + myVerb + " towards the butt.";
- 
+
    return result;
  }
+
+ wordBlanks("dog", "fat", "drink", "happily");
