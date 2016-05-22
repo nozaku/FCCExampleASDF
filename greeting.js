@@ -15,9 +15,9 @@ var butts = "My Butt!"
 
  	whatAmISittingOn();
 
- 	function wordBlanks(myNoun, myAdjective, myVerb, myAdverb) {
-  var result = "";
-  result = "The " + myAdjective + " " + myNoun + " " + myAdverb + " " + myVerb + " towards the butt.";
+ function wordBlanks(myNoun, myAdjective, myVerb, myAdverb) {
+    var result = "";
+    result = "The " + myAdjective + " " + myNoun + " " + myAdverb + " " + myVerb + " towards the butt.";
 
    return result;
  }
